@@ -4,7 +4,7 @@
 
 ![ss1](https://github.com/w33zy5/vrpnb/blob/master/ss1.png)
 
-src="ss1.png"
+<img src="ss1.png">
 
 Aplikasi Virtual Reality Politeknik Negeri Bali merupakan sebuah aplikasi virtual reality yang memuat informasi mengenai gedung - gedung yang ada di instansi Politeknik Negeri Bali. Aplikasi ini dibuat dengan tujuan untuk memberikan sebuah pengalaman kepada pengguna untuk memperoleh informasi mengenai Politeknik Negeri Bali dengan cara yang lebih modern.
 
