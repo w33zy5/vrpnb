@@ -1,12 +1,34 @@
-## Welcome to GitHub Pages
+## Virtual Reality Politeknik Negeri Bali
+
+**Selamat datang pengguna aplikasi Virtual Reality Politeknik Negeri Bali!**
+
+![ss2](https://github.com/w33zy5/vrpnb/blob/master/ss2.png)
+
+Aplikasi Virtual Reality Politeknik Negeri Bali merupakan sebuah aplikasi virtual reality yang memuat informasi mengenai gedung - gedung yang ada di instansi Politeknik Negeri Bali. Aplikasi ini dibuat dengan tujuan untuk memberikan sebuah pengalaman kepada pengguna untuk memperoleh informasi mengenai Politeknik Negeri Bali dengan cara yang lebih modern.
+
+![ss1](https://github.com/w33zy5/vrpnb/blob/master/ss1.png)
+
+Fitur yang terdapat dalam aplikasi terdiri atas:
+- Pemilihan gedung Politeknik Negeri Bali
+- Pemilihan informasi ekstra mengenai Politeknik Negeri Bali
+- Mode Simulasi VR (Simulasi berjalan di lingkungan Politeknik Negeri Bali)
+- Ganti Tampilan menjadi VR/Non VR
+
+[Download Aplikasi](https://github.com/w33zy5/vrpnb/edit/master/index.md)
+[Download PDF Laporan](https://github.com/w33zy5/vrpnb/edit/master/index.md)
+[Presentasi Laporan Tugas Akhir](https://github.com/w33zy5/vrpnb/edit/master/index.md)
+
+Cara menggunakan :
+- Pengguna menggerakkan smartphone pada tombol atau gedung yang ingin dituju dan tunggu selama 3 detik untuk mengaktifkan tombol atau gedung.
+
+Dibuat dengan:
+- Aplikasi: Unity 2018.4.4f1(64-bit)
+- Model 3D: Blender 2.79b
+- Gambar dalam Aplikasi: GIMP 2.10.10
 
 You can use the [editor on GitHub](https://github.com/w33zy5/vrpnb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-![](https://github.com/w33zy5/vrpnb/blob/master/20190811_172606.gif)
-
-![](https://github.com/w33zy5/vrpnb/blob/master/20190811_173329.gif)
 
 ### Markdown
 
@@ -29,6 +51,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
