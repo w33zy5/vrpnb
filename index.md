@@ -14,7 +14,7 @@ Fitur yang terdapat dalam aplikasi terdiri atas:
 - Mode Simulasi VR (Simulasi berjalan di lingkungan Politeknik Negeri Bali)
 - Ganti Tampilan menjadi VR/Non VR
 
-[Download Aplikasi](https://drive.google.com/open?id=1BPJ2AEsVc8V_H_S0WUiN_YQIJEDyN2TW)
+-> [Download Aplikasi](https://drive.google.com/open?id=1BPJ2AEsVc8V_H_S0WUiN_YQIJEDyN2TW) <-
 
 <!--[Download PDF Laporan](https://drive.google.com/open?id=1zjmRpWf-or9dEfYg_EqZ90xNPiFQRP47)-->
 
