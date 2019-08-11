@@ -15,7 +15,9 @@ Fitur yang terdapat dalam aplikasi terdiri atas:
 - Ganti Tampilan menjadi VR/Non VR
 
 [Download Aplikasi](https://github.com/w33zy5/vrpnb/edit/master/index.md)
+
 [Download PDF Laporan](https://github.com/w33zy5/vrpnb/edit/master/index.md)
+
 [Presentasi Laporan Tugas Akhir](https://github.com/w33zy5/vrpnb/edit/master/index.md)
 
 Cara menggunakan :
