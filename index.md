@@ -2,11 +2,12 @@
 
 **Selamat datang pengguna aplikasi Virtual Reality Politeknik Negeri Bali!**
 
-![ss2](https://github.com/w33zy5/vrpnb/blob/master/ss2.png)
+![ss1](https://github.com/w33zy5/vrpnb/blob/master/ss1.png)
+src="https://github.com/w33zy5/vrpnb/blob/master/ss1.png"
 
 Aplikasi Virtual Reality Politeknik Negeri Bali merupakan sebuah aplikasi virtual reality yang memuat informasi mengenai gedung - gedung yang ada di instansi Politeknik Negeri Bali. Aplikasi ini dibuat dengan tujuan untuk memberikan sebuah pengalaman kepada pengguna untuk memperoleh informasi mengenai Politeknik Negeri Bali dengan cara yang lebih modern.
 
-![ss1](https://github.com/w33zy5/vrpnb/blob/master/ss1.png)
+![ss2](https://github.com/w33zy5/vrpnb/blob/master/ss2.png)
 
 Fitur yang terdapat dalam aplikasi terdiri atas:
 - Pemilihan gedung Politeknik Negeri Bali
