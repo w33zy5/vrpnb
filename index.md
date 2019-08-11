@@ -16,9 +16,9 @@ Fitur yang terdapat dalam aplikasi terdiri atas:
 
 [Download Aplikasi](https://drive.google.com/open?id=1BPJ2AEsVc8V_H_S0WUiN_YQIJEDyN2TW)
 
-[Download PDF Laporan](https://drive.google.com/open?id=1zjmRpWf-or9dEfYg_EqZ90xNPiFQRP47)
+<!--[Download PDF Laporan](https://drive.google.com/open?id=1zjmRpWf-or9dEfYg_EqZ90xNPiFQRP47)-->
 
-[Presentasi Laporan Tugas Akhir](https://drive.google.com/open?id=16oTgqlYQvny95n-x7NXXqZ-9BS8k_eE-P29Ju_Ug_j0)
+<!--[Presentasi Laporan Tugas Akhir](https://drive.google.com/open?id=16oTgqlYQvny95n-x7NXXqZ-9BS8k_eE-P29Ju_Ug_j0)-->
 
 Cara menggunakan :
 - Pengguna menggerakkan smartphone pada tombol atau gedung yang ingin dituju dan tunggu selama 3 detik untuk mengaktifkan tombol atau gedung.
